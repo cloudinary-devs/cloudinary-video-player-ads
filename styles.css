@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.video-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#ad-tag-url {
+  width: 100%;
+  max-width: 84%;
+  margin-bottom: 1em;
+}
+
+.ima-ad-container video {
+  left: 0;
+}
